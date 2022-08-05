@@ -9,7 +9,7 @@ on:
 jobs:
   build:
     env:
-      working-directory: ./src
+      working-directory: ./Source
 
     runs-on: ubuntu-latest
     
