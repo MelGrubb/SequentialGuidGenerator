@@ -1,5 +1,5 @@
 [![GitHub](https://img.shields.io/github/license/melgrubb/SequentialGuidGenerator)](https://opensource.org/licenses/MIT)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MelGrubb/SequentialGuidGenerator/ci)](https://github.com/MelGrubb/SequentialGuidGenerator/actions/workflows/ci.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/MelGrubb/SequentialGuidGenerator/CI)](https://github.com/MelGrubb/SequentialGuidGenerator/actions/workflows/ci.yml)
 [![GitHub issues](https://img.shields.io/github/issues/melgrubb/SequentialGuidGenerator)](https://github.com/MelGrubb/SequentialGuidGenerator/issues)
 
 # Sequential GUID Generator #
